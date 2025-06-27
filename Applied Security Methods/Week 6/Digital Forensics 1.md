@@ -207,7 +207,7 @@ if devices or systems have logging capability, this should be active if possible
 **Monitoring**
 Network monitoring tools used if possible. May require commercial off-the-shelf (COTS) monitoring solutions to be configured for ICS
 
-**Base lining** 
+**Baselining**
 Hardware and software configurations should be backed-up, and copies of verified PLC logic should be stored for future reference 
 
 ## Volatile memory collection
