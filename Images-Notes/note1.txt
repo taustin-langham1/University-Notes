@@ -1,0 +1,16 @@
+Goal:
+
+1) To be able to program a pokemon damage calculator in C++
+2) pie builder, based on average monthly gains. (shows companies with average monthly gain specified as %)
+
+steps:
+fizzbuzz c++
+
+buying a beginners guide into C++
+do fizzbuzz in c++ after guide
+look into how to build applications in C++
+
+general steps:
+swing
+collections 
+recursion
