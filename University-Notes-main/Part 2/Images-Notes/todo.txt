@@ -1,0 +1,13 @@
+todo:
+
+2) secure cyber systems labs (Before Thursday)
+3) Haskell lecture revision // chapters 1 -> 8 (Before Friday)
+4) Java OOP refresher lectures (Before Next Monday)
+5) 252 Coursework question 1 (cryptography.io)(use correct sources of randomness)
+
+In Mind:
+
+1) Attempting Ai labs before the date (unrealistic, depends on if i have enough energy after Task #1)
+2) 231 flashcards
+
+done:

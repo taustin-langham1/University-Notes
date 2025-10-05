@@ -1,0 +1,20 @@
+Math:
+- Math academy
+
+Algorithms:
+- Neet code (for leet code)
+
+data engineering:
+Designing data-intensive applications
+
+AWS certified cloud Practitioner
+
+AI:
+Neural networks backpropagation 
+
+
+Keynotes:
+	   Projects, Scaffolding built through learning and applying. small exercises 
+	   go from the top down - figure out what you want to do and work backwards to learn what you need to 	      	   implement that
+
+

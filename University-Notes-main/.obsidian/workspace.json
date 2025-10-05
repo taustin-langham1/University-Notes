@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "977b293d28836cdf",
+    "type": "split",
+    "children": [
+      {
+        "id": "6382226187ffc493",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ddac0d1bbf39bc04",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "92c6a2fe222cfc35",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8166518cc58e66b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fa628c534243b14",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c499667fb2303fb6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "808ac85af58da637",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "ce8068e5116885e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b11e0f811acb274",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07aab7c4726662db",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Secure Cyber Systems/Week 8/Introduction on Operating System Security.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Introduction on Operating System Security"
+            }
+          },
+          {
+            "id": "a7c09e55b282b64c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Secure Cyber Systems/Week 8/Introduction on Operating System Security.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Introduction on Operating System Security"
+            }
+          },
+          {
+            "id": "abc67457d3e08d31",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5b76de7e16e2f804",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Secure Cyber Systems/Week 8/Introduction on Operating System Security.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Introduction on Operating System Security"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ddac0d1bbf39bc04",
+  "lastOpenFiles": [
+    "base/Untitled.base",
+    "base/Untitled 2.base",
+    "base/Untitled 1.base",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Part 3/Project/(1) Presentation/(0) Main.md",
+    "Part 3/Project/(1) Presentation/(0) Screen shots",
+    "Part 3/Project/(0) General/Grading of Mammogram Images/Survey of deep learning in breast cancer image analysis.md",
+    "Part 3/Project/(1) Presentation",
+    "Part 3/Project/(0) General",
+    "Part 3/Project",
+    "Part 3/Grading of Mammogram Images/Meeting on the 16th of June.md",
+    "Leet-Code/(0) Problems/(0) General/(1) Easy/694. Kth element of a list.md",
+    "Leet-Code/(1) Algorithms/(1) A Common Sense Guide To Data Structures and Algorithms/(2) Search.md",
+    "Leet-Code/(1) Algorithms/(1) A Common Sense Guide To Data Structures and Algorithms/(3.0) Sort - Comparison Based.md",
+    "Leet-Code/(1) Algorithms/(1) A Common Sense Guide To Data Structures and Algorithms/(3.1) Sort - Non-Comparison Based.md",
+    "Leet-Code/(1) Algorithms/(1) A Common Sense Guide To Data Structures and Algorithms/(1) Big O.md",
+    "Leet-Code/(1) Algorithms/(1) Heap/Working on Heaps.md",
+    "Leet-Code/(1) Algorithms/(1) Heap/Heapification.md",
+    "Leet-Code/(1) Algorithms/(1) A Common Sense Guide To Data Structures and Algorithms/(0) Intro.md",
+    "Leet-Code/(0) Problems/(0) General/(2) Medium/Sort an Array.md",
+    "Leet-Code/(1) Algorithms/(1) Heap",
+    "Leet-Code/(1) Algorithms",
+    "Leet-Code/(0) Problems/(0) General/(1) Easy/1672. Richest Customer Wealth - Arrays.md",
+    "Leet-Code/(0) Problems/(0) General/(1) Easy/1480. Running Sum of 1D Array - Arrays.md",
+    "Leet-Code/(0) Problems/(0) General/(1) Easy/1342. Number of Steps to Reduce a Number to Zero.md",
+    "Leet-Code/(0) Problems/(0) General/(1) Easy/1051. Height Checker - Easy.md",
+    "Leet-Code/(0) Problems/(0) General/(1) Easy/876. Middle of the Linked List - Linked Lists.md",
+    "Leet-Code/(0) Problems/(0) General/(1) Easy/412. fizz buzz - arrays.md",
+    "Leet-Code/(0) Problems/(0) General/(1) Easy/344. Reverse String.md",
+    "Leet-Code/(0) Problems/(0) General/(1) Easy/75. Sort Colours - Sort colours.md",
+    "Leet-Code/(0) Problems/(0) General/(2) Medium/147. Insertion Sort List - Medium.md",
+    "Leet-Code/(0) Problems/(0) General/(1) Easy/383. Ransom Note - Strings.md",
+    "Thomas/Algorithms/A Common Sense Guide To Data Structures and Algorithms/(1) Basics.md",
+    "Thomas/Algorithms/Primeagen/Untitled.md",
+    "Leet-Code/(1) Algorithms/(1) A Common Sense Guide To Data Structures and Algorithms/Images/Pasted image 20250905142358.png",
+    "Leet-Code/(1) Algorithms/(1) A Common Sense Guide To Data Structures and Algorithms/Images/Pasted image 20250905142356.png",
+    "Untitled.md"
+  ]
+}

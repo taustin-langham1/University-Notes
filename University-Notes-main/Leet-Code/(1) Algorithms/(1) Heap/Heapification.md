@@ -1,0 +1,22 @@
+
+### Max-heapification:
+
+
+```
+
+
+
+
+
+```
+
+
+## Min-heapification
+
+```
+
+
+
+
+
+```
