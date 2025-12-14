@@ -3,6 +3,7 @@
 - Hypothesis Functions
 - Activations
 
+$\sum_{i=0}^n x_i w_i$
 
 Using a Perceptron
 ![[Pasted image 20251028141617.png]]

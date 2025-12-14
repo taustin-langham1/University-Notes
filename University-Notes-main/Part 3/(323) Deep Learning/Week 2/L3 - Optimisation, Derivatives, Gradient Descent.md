@@ -27,6 +27,14 @@ $\Huge{v_k^1\,=\,\varphi(\sum_{j=i}^3 w_{j,k}^1 x_j)}$
 Combine:
 
 $\Huge{v_{k_4}^4\,=\,\varphi(\sum_{j=i}^4 w_{j_4,k_4}^4 \;\varphi(\sum_{j_4=i}^5 w_{j_3,j_4}^3 (..(..))))}$ 
+v^4_k_4 is the linear score **before activation**, so linear score before activation is the running computed score from outputs of the layer before it.
+
+the same as a perceptrons linear function,
+the only difference is:
+inputs from layer 1 come from x 
+inputs from layer 2 come from layer 1 activations
+inputs from layer 3 come from layer 2 activations
+
 
 
 ## Forward Propagation
